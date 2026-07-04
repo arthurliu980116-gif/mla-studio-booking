@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120" role="img" aria-label="MLA STUDIO">
+  <rect width="520" height="120" rx="0" fill="none"/>
+  <text x="0" y="76" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="0" fill="#111111">MLA</text>
+  <text x="142" y="76" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="0" fill="#e50914">STUDIO</text>
+  <path d="M0 98H386" stroke="#111111" stroke-width="4" stroke-linecap="round" opacity=".12"/>
+</svg>
